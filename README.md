@@ -18,6 +18,7 @@ Click the "Analyze" button.
 
 The sentiment analysis result will be displayed on the web page.
 
+https://naf-nepali-sentiment-analysis.streamlit.app/
 
 ## License
 
